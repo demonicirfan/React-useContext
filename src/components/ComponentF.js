@@ -1,7 +1,11 @@
 import React from 'react';
 
 const ComponentF = () => {
-  return <div>ComponentF</div>;
+  return (
+    <div>
+
+    </div>
+  );
 };
 
 export { ComponentF };
